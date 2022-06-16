@@ -1,0 +1,9 @@
+.server{
+    font-weight: bold;
+}
+
+input{
+    border: none;
+    margin-top: 5px;
+    cursor: pointer;
+}
